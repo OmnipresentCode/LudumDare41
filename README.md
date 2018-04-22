@@ -1,3 +1,6 @@
-#Ludum Dare 41
+#How to play
 
-This is the place holder readme for LD41
+W - Accelerate
+S - Brake
+A/D - Turn
+
